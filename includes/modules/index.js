@@ -1,3 +1,3 @@
-import HelloWorld from './HelloWorld/HelloWorld';
+import URLImport from './URLImport/URLImport.php'
+export default [URLImport];
 
-export default [HelloWorld];
